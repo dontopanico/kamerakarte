@@ -1,0 +1,298 @@
+.content {
+    width: 514px;
+}
+
+.content fieldset {
+    border:1px outset gray; 
+    margin: 0;
+    padding:0.5em; 
+    background-color:#eef;
+    font-size: 110%;
+}
+
+.content fieldset legend {
+    font-weight:bold;
+    padding: 3px 1em;
+    background: white;
+    border: 1px outset grey;
+}
+
+.content fieldset table tr td:first-child { 
+    vertical-align: top;
+    background-color:#dde;
+    width: 15em;
+    text-align:right;
+    padding-right: 0.5em;
+}
+
+.content select option:first-child {
+    color: grey;
+}
+
+/* Eingabefelder */
+textarea {
+    border: 1px solid #CCC;
+}
+
+textarea:hover {
+    background-color: #F3F3F3;
+}
+
+textarea:focus {
+    background-color: #E6E6FF;
+}
+
+input {
+    border: 1px solid #CCC;
+}
+
+input:hover {
+    background-color: #F3F3F3;
+}
+
+input:focus {
+    background-color: #E6E6FF;
+}
+
+/* Button-Spielchen */
+.buttonlink {
+    background-color: white;
+    padding:0;
+    margin:0;
+    border:0;
+    cursor:pointer;
+}
+
+.buttonlink:hover {
+    background-color: white;
+}
+
+.button, a.button {
+    display:block;
+    float:left;
+    background-color:#f5f5f5;
+    border:1px solid #dedede;
+    border-top:1px solid #eee;
+    border-left:1px solid #eee;
+    text-decoration:none;
+    font-weight:bold;
+    font-size:110%;
+    color:#565656;
+    margin: 0 0.2em;
+    padding:0.2em 0.5em;
+}
+
+/* POSITIVE */
+
+.positive, a.positive {
+    color:#529214;
+}
+.positive:hover, a.positive:hover {
+    background-color:#E6EFC2;
+    border:1px solid #C6D880;
+    color:#529214;
+}
+.positive:active, a.positive:active {
+    background-color:#529214;
+    border:1px solid #529214;
+    color:#fff;
+}
+
+/* NEGATIVE */
+
+.negative, a.negative {
+    color:#d12f19;
+}
+.negative:hover, a.negative:hover {
+    background:#fbe3e4;
+    border:1px solid #fbc2c4;
+    color:#d12f19;
+}
+.negative:active, a.negative:active {
+    background-color:#d12f19;
+    border:1px solid #d12f19;
+    color:#fff;
+}
+
+/* REGULAR */
+
+.regular, a.regular {
+    color:#336699;
+}
+.regular:hover, a.regular:hover {
+    background-color:#dff4ff;
+    border:1px solid #c2e1ef;
+    color:#336699;
+}
+.regular:active, a.regular:active{
+    background-color:#6299c5;
+    border:1px solid #6299c5;
+    color:#fff;
+}
+
+/* Tabellen */
+table {
+    width: 100%;
+    border-spacing:3px;
+    margin: 0;
+    padding: 0em;
+}
+
+.content table tr td {
+    vertical-align: top;
+    padding: 3px;
+    margin: 0px;
+    border-bottom: 1px dashed #dde;
+}
+
+.content table, .content table th {
+    font-size: 110%;
+    padding: 0.5em;
+}
+
+.content table thead, .content table tfoot {
+    font-weight: bold;
+    background: #eef;
+}
+
+.content table tfoot tr td{
+    border: 0;
+    text-align: left;
+    background: #eef;
+}
+
+
+/* Sichtbares Infofeld */ 
+.content .info {
+    margin: 0.2em 0em;
+    padding: 0.2em;
+    border: 1px outset grey;
+    background: #eef;
+}
+
+.content .info:before {
+    content: "Info: ";
+    font-weight: bold;
+}
+
+/* Tooltipp */
+.content a.tipp {
+    position:relative;
+    color:#000;
+    border-bottom: 1px dashed black;
+}
+
+.content a.tipp span{display: none}
+
+.content a.tipp:hover span{
+    width: 25em;
+    display:block;
+    position:absolute;
+    top:-0.5em; left:2em;
+    padding: 3px;
+    border:1px solid #778;
+    background-color:#DDE; color:#448;
+    text-align:left;}
+
+.content a.tipp:hover span b{
+    display:block;
+    top:0em;
+    border-bottom:1px dashed #AAE;
+    background-color:#c6c6c6; color:#000;
+    text-align:left;
+}
+
+/* Kurzinfo */
+.failure {
+    color:red;
+    background: #fed;
+    border:1px solid red;
+    margin-bottom:0.5em;
+}
+
+.hint {
+    background-color:#dff4ff;
+    border:1px solid #c2e1ef;
+    color:#336699;
+    margin-bottom:0.5em;
+}
+
+.confirm {
+    color:green; 
+    background: #efd; 
+    border:1px solid green; 
+    margin-bottom:0.5em;
+}
+
+/*  Preview Box */
+.preview {
+    display:none; 
+    position:fixed;
+    top:0;
+    left:0;
+    height:100%;
+    width: 100%;
+    z-index: 2000;
+    background: url(wiki_images/transp-background.png);
+}
+
+.infolink {
+    border-top: 1px solid #aae;
+}
+
+/* Infoseite */
+.infotop {
+    background-image:url(wiki_images/background.png); 
+    background-repeat:no-repeat;
+    position: relative;
+    height:50px;
+}
+
+.infotop .infoheadline {
+    font-size:200%;
+    position: absolute;
+    left:90px;
+    bottom: 8px;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.infoheadline a {
+    font-weight:bold;
+    color: #003a6b;
+}
+
+.navi {
+    float:left;
+    width: 16em;
+    height: 90%;
+    border-right: 1px solid grey;
+}
+
+.navi_box {
+    margin-left: 1em;
+}
+
+/* Links zum Bearbeiten */
+
+h1.hovertitel, h2.hovertitel {
+    position: relative;
+}
+
+a.hovertext {
+    display:none;
+    position: absolute;
+    right: 0.5em;
+    bottom: 0em;
+    color: silver;
+}
+
+a.hoverinfo {
+    color:grey;
+    padding:0 0.2em;
+}
+
+h1.hovertitel:hover a.hovertext, h2.hovertitel:hover a.hovertext {
+    display:inline;
+}

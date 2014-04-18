@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.47pre4 r22446"
+   sodipodi:docname="cctv.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2484"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.2202806"
+     inkscape:cx="302.58399"
+     inkscape:cy="691.05306"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1018"
+     inkscape:window-height="529"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       style="fill:#bae200;fill-opacity:0.98823529;stroke:none"
+       id="g2819"
+       inkscape:export-filename="/home/niels/Projekte/openstreetmap/icons/cctv1.png"
+       inkscape:export-xdpi="16"
+       inkscape:export-ydpi="16"
+       transform="matrix(1,0,0,1.1103061,0,-47.107194)">
+      <path
+         style="fill:#bae200;fill-opacity:0.98823529;fill-rule:evenodd;stroke:none"
+         d="m 246.4375,296.40625 c -10.26115,0.51679 -18.34375,8.94976 -18.34375,19.34375 l 0,41.25 -48.77798,63.97408 73.93423,-35.34908 88.34375,0 c 10.72927,0 19.34375,-8.61448 19.34375,-19.34375 l 0,-50.53125 c 0,-10.72928 -8.61448,-19.34375 -19.34375,-19.34375 l -94.15625,0 c -0.33529,0 -0.669,-0.0167 -1,0 z"
+         id="rect2492"
+         sodipodi:nodetypes="ccccccccccc"
+         inkscape:export-filename="/home/niels/Projekte/openstreetmap/icons/cctv1.png"
+         inkscape:export-xdpi="16.922892"
+         inkscape:export-ydpi="16.922892" />
+    </g>
+    <path
+       style="fill:#000000"
+       d="m 339.57615,375.75633 c 0.0736,-15.66562 1.86483,-13.11944 -9.12274,-13.50367 -5.0981,-0.17771 -6.24687,0.17893 -7.52665,1.17504 -4.67013,3.63492 -12.36119,1.98623 -14.59238,-3.12809 -0.71612,-1.64149 -2.12659,-2.66711 -8.65141,-6.29078 -4.28769,-2.38124 -8.08978,-4.32952 -8.44909,-4.32952 -0.35931,0 -1.10866,0.47149 -1.66523,1.04777 -0.55657,0.57628 -3.08308,3.20358 -5.61446,5.83844 -7.25629,7.55292 -6.8673,7.26812 -8.16864,5.98084 -1.25085,-1.23737 -0.99481,-1.4154 -7.108,4.94233 -1.71539,1.78402 -3.52825,3.14171 -4.19714,3.14334 -0.73736,0.002 -3.89705,-2.68263 -8.45344,-7.1819 -4.00178,-3.95163 -7.54824,-7.18478 -7.88102,-7.18478 -0.33278,0 -1.77572,1.29915 -3.20654,2.88701 -1.80786,2.0063 -2.49387,3.19352 -2.24875,3.89176 0.47839,1.36269 -1.79185,1.36276 -3.57166,1.1e-4 -3.53797,-2.70873 -5.60608,-6.77406 -3.45053,-6.78275 1.31666,-0.005 6.16221,-4.64229 6.16221,-5.89697 0,-0.5598 -0.49297,-1.4792 -1.0955,-2.04312 -0.60253,-0.56391 -1.0955,-1.53557 -1.0955,-2.15926 0,-0.97904 8.03849,-9.7061 20.53717,-22.29636 1.50825,-1.5193 4.8111,-4.90199 7.33967,-7.5171 l 4.5974,-4.75472 -1.49592,-2.47087 c -0.98882,-1.63328 -1.34036,-2.76397 -1.03701,-3.3355 0.90314,-1.70154 21.83798,-22.54315 22.64286,-22.54201 0.45189,6.4e-4 1.41869,0.50284 2.14843,1.116 1.32313,1.11176 1.32441,1.12406 0.46289,4.43439 l -0.86393,3.31955 4.74076,4.73264 c 2.60742,2.60296 7.88265,7.80872 11.72275,11.56837 3.8401,3.75965 6.98282,7.21865 6.98383,7.68667 10e-4,0.46803 -0.40608,1.34367 -0.90467,1.94588 -0.84569,1.02146 -0.83702,1.17887 0.12919,2.3459 1.03225,1.24677 1.00548,1.28259 -7.99444,10.69655 l -9.03016,9.44557 6.12683,3.35925 c 6.04944,3.31682 6.15126,3.34808 8.06174,2.47554 3.44706,-1.57432 7.72063,-0.6774 10.32229,2.1664 1.5393,1.68257 1.76713,1.73976 6.93152,1.73976 4.89754,0 5.44013,-0.11662 6.54979,-1.40774 1.17899,-1.37178 1.2084,-1.75704 1.15148,-15.0861 l -0.0584,-13.67838 5.38009,-0.16536 c 2.95904,-0.091 5.67155,0.0341 6.02778,0.27784 0.48378,0.33105 0.55111,28.52394 0.68102,55.79567 0,0 -8.4607,0.15235 -11.21648,-0.25764 z"
+       id="path2490"
+       sodipodi:nodetypes="csssssssssssssssssssscccssscccsssscccsssscccscc"
+       inkscape:export-filename="/home/niels/Projekte/openstreetmap/icons/cctv1.png"
+       inkscape:export-xdpi="16.922892"
+       inkscape:export-ydpi="16.922892" />
+  </g>
+</svg>

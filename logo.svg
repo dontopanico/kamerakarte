@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2927"
+   version="1.1"
+   inkscape:version="0.47pre4 r22446"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2929">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4449"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4437"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4433"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4429"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4425"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4421"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4417"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4413"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4409"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4405"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4401"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4397"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4363"
+       is_visible="true"
+       pattern="m -2.087861,-4.0473978 c 0,-2.76 2.23999998,-5 5,-5 2.76,0 5,2.24 5,5 0,2.76 -2.24,5.00000003 -5,5.00000003 -2.76000002,0 -5,-2.24000003 -5,-5.00000003 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4349"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4345"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4341"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4337"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4333"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4329"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4325"
+       is_visible="true"
+       pattern="M 0,5 C 0,2.24 2.24,0 5,0 7.76,0 10,2.24 10,5 10,7.76 7.76,10 5,10 2.24,10 0,7.76 0,5 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <linearGradient
+       id="linearGradient4283">
+      <stop
+         style="stop-color:#fcb100;stop-opacity:1;"
+         offset="0"
+         id="stop4285" />
+      <stop
+         id="stop4291"
+         offset="0.51999998"
+         style="stop-color:#fcb100;stop-opacity:1;" />
+      <stop
+         style="stop-color:#fcb100;stop-opacity:0;"
+         offset="1"
+         id="stop4287" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2935" />
+    <inkscape:perspective
+       id="perspective2922"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4283"
+       id="linearGradient4289"
+       x1="146.97719"
+       y1="569.63548"
+       x2="612.65752"
+       y2="569.63548"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.2344939,0,0,1,-622.37404,0)" />
+    <inkscape:perspective
+       id="perspective4381"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0776579"
+     inkscape:cx="408.10255"
+     inkscape:cy="432.10976"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="531"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="false">
+    <sodipodi:guide
+       orientation="1,0"
+       position="88.886719,466.36328"
+       id="guide4314" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="100.1875,466.81641"
+       id="guide4316" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2932">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4318"
+       style="fill:#002747;fill-opacity:1"
+       inkscape:export-filename="/home/niels/Projekte/openstreetmap/background.png"
+       inkscape:export-xdpi="46"
+       inkscape:export-ydpi="46">
+      <path
+         inkscape:export-ydpi="46.006592"
+         inkscape:export-xdpi="46.006592"
+         inkscape:export-filename="/home/niels/Projekte/openstreetmap/background.png"
+         id="path2950"
+         d="m 139.92029,565.10679 c 0.0132,-1.79085 0.90695,-3.28836 5.48202,-9.18522 3.00645,-3.87503 5.73659,-7.16107 6.06697,-7.30231 0.33038,-0.14125 1.20475,-0.002 1.94305,0.30881 0.7383,0.3111 4.09421,1.73372 7.45756,3.16138 9.64119,4.09243 9.17156,3.98346 9.8621,2.28826 0.66374,-1.62947 0.35833,-1.69251 8.47861,1.75029 2.27859,0.96608 4.47922,1.50184 5.0949,1.24039 0.67878,-0.28801 2.52878,-3.99859 4.94969,-9.92677 2.12623,-5.20661 4.11624,-9.57359 4.42223,-9.70441 0.30599,-0.13081 2.14346,0.49653 4.08328,1.3941 2.451,1.13412 3.54848,1.95609 3.59757,2.69448 0.0958,1.44104 2.1833,0.54867 3.28417,-1.40392 2.18834,-3.88145 2.49188,-8.43247 0.50644,-7.59312 -1.21263,0.51299 -7.49101,-1.84619 -7.98422,-2.99987 -0.22006,-0.51473 -0.12819,-1.5539 0.20415,-2.30928 0.33235,-0.75537 0.40368,-1.84259 0.1585,-2.41607 -0.38486,-0.90022 -11.20682,-5.76478 -27.64854,-12.42824 -1.98407,-0.80409 -6.35076,-2.61612 -9.70377,-4.02671 l -6.09637,-2.56471 0.40419,-2.86 c 0.26718,-1.8905 0.14594,-3.06835 -0.35766,-3.47462 -1.4993,-1.20954 -28.94164,-12.14381 -29.68128,-11.82637 -0.41526,0.17823 -1.10681,1.02005 -1.53677,1.87071 -0.77958,1.54238 -0.77593,1.5542 1.31754,4.25936 l 2.09929,2.7127 -2.4987,6.21524 c -1.37429,3.41839 -4.17846,10.27875 -6.23149,15.24528 -2.05304,4.96653 -3.58302,9.38247 -3.39997,9.81321 0.18306,0.43074 0.90159,1.07586 1.59677,1.4336 1.17914,0.60678 1.23305,0.75493 0.80338,2.20783 -0.45904,1.55217 -0.42035,1.5746 11.55567,6.69281 l 12.01625,5.1354 -4.31307,5.49728 c -4.25859,5.42783 -4.33993,5.4966 -6.4396,5.44532"
+         style="fill:#002747;fill-opacity:1" />
+      <path
+         sodipodi:nodetypes="csscccccsc"
+         inkscape:export-ydpi="46.006592"
+         inkscape:export-xdpi="46.006592"
+         inkscape:export-filename="/home/niels/Projekte/openstreetmap/background.png"
+         id="path2490"
+         d="m 121.27187,557.97078 c -1.5393,1.68257 -7.48142,2.0969 -12.64581,2.0969 -4.89755,0 -5.44014,-0.11662 -6.5498,-1.40774 -1.17899,-1.37178 -1.2084,-1.75704 -1.15148,-15.0861 l 0.0584,-13.67838 c -4.037824,-0.21554 -8.066177,-0.21808 -12.096461,0.11248 0,0 0.12991,28.2661 0,55.53783 0,0 8.468268,0.41019 11.224051,2e-4 -0.0736,-15.66562 -1.864823,-13.11944 9.12276,-13.50367 5.0981,-0.17771 11.96116,-0.17821 13.24094,0.8179"
+         style="fill:#002747;fill-opacity:1" />
+      <path
+         inkscape:export-ydpi="46.006592"
+         inkscape:export-xdpi="46.006592"
+         inkscape:export-filename="/home/niels/Projekte/openstreetmap/background.png"
+         transform="matrix(-0.98360656,0,0,0.98360656,495.9614,19.378527)"
+         d="m 383.75,554.68359 a 10.892858,10.892858 0 1 1 -21.78571,0 10.892858,10.892858 0 1 1 21.78571,0 z"
+         sodipodi:ry="10.892858"
+         sodipodi:rx="10.892858"
+         sodipodi:cy="554.68359"
+         sodipodi:cx="372.85715"
+         id="path2946"
+         style="fill:#002747;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <rect
+       style="fill:url(#linearGradient4289);fill-opacity:1;stroke:none"
+       id="rect4281"
+       width="2437.6011"
+       height="2.7779195"
+       x="146.97719"
+       y="568.24652"
+       inkscape:export-filename="/home/niels/Projekte/openstreetmap/background.png"
+       inkscape:export-xdpi="46.006592"
+       inkscape:export-ydpi="46.006592" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.85312325px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 246.3125 540.8125 L 235.6875 551.25 L 246.3125 540.8125 z M 234.53125 542.46875 C 232.67349 542.46875 231.1875 544.01568 231.1875 545.9375 C 231.1875 547.67324 232.39341 549.08138 234 549.34375 L 233.625 550.78125 L 229.4375 565.9375 L 235.8125 559.8125 L 235.375 549.3125 C 236.82821 548.92791 237.90625 547.56069 237.90625 545.9375 C 237.90625 544.01568 236.38901 542.46875 234.53125 542.46875 z M 225.625 548.28125 L 232.9375 552.78125 L 225.625 548.28125 z M 234.15625 561.5 L 236.59375 568.625 L 234.15625 561.5 z M 231.71875 564.15625 L 230.6875 569.84375 L 231.71875 564.15625 z "
+       id="path4327"
+       inkscape:export-filename="/home/niels/Projekte/openstreetmap/background.png"
+       inkscape:export-xdpi="46"
+       inkscape:export-ydpi="46" />
+  </g>
+</svg>

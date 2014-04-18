@@ -1,0 +1,44 @@
+.lbox div {
+    display: none;
+}
+
+.lbox div:first-child {
+    display: inline;
+}
+
+.ubox {
+    border-bottom: 1px solid #fcb100;
+    margin-bottom: 0.5em; 
+}
+
+.ubox ul {
+    margin:0 0 0.2em 0;
+    padding:0;
+}
+.ubox ul li {
+    display: inline;
+    list-style: none;
+}
+
+.ubox ul li a {
+    color: #003a6b;
+    padding: 0.3em 1em;	
+    border: 1px solid #fcb100;
+    text-decoration: none;
+}
+
+.ubox ul li a:hover {
+    color: #aae;
+}
+
+.ubox ul li .active {
+    background: white;
+    border-bottom: 1px solid white;
+}
+.ubox ul li .inactive {
+    background: #eef;
+}
+
+.bbox {
+    padding-top: 5px;
+}
